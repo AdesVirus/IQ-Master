@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">IQ Master</string>
+    
+    <!-- Screen titles -->
+    <string name="home_screen_title">IQ Master Quiz</string>
+    <string name="high_scores_title">High Scores</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="consent_settings_title">Consent &amp; Settings</string>
+    
+    <!-- Quiz UI -->
+    <string name="score_label">Score: %d</string>
+    <string name="question_label">Question %d of %d</string>
+    <string name="finish_test_button">Finish Test</string>
+    <string name="next_question_button">Next Question</string>
+    <string name="submit_answer_button">Submit Answer</string>
+    
+    <!-- High Scores UI -->
+    <string name="local_scores_header">Your High Scores</string>
+    <string name="remote_scores_header">Cloud Scores</string>
+    <string name="clear_local_scores">Clear Local Scores</string>
+    <string name="clear_remote_scores">Clear Cloud Scores</string>
+    <string name="reset_ads_choice">Reset Ads Choice</string>
+    <string name="no_scores_yet">No scores yet. Complete a quiz!</string>
+    <string name="score_item">Score: %d (Date: %s)</string>
+    <string name="confirm_clear_local">Are you sure you want to clear all local scores?</string>
+    <string name="confirm_clear_remote">Are you sure you want to clear all cloud scores?</string>
+    
+    <!-- Privacy Policy -->
+    <string name="hosted_privacy_policy_url">https://adesvirus.github.io/IQ-Master/privacy_policy.html</string>
+    <string name="privacy_policy_error">Failed to load privacy policy</string>
+    <string name="view_hosted_policy">View Hosted Policy</string>
+    <string name="view_local_policy">View Local Policy</string>
+    
+    <!-- Consent UI -->
+    <string name="consent_status_label">Consent Status: %s</string>
+    <string name="consent_unknown">Unknown</string>
+    <string name="consent_required">Required</string>
+    <string name="consent_not_required">Not Required</string>
+    <string name="consent_obtained">Obtained</string>
+    <string name="reopen_consent_form">Change Ad Preferences</string>
+    <string name="no_ads_toggle">No Ads (Opt-out)</string>
+    <string name="consent_debug_mode">Debug Mode (Testing)</string>
+    
+    <!-- Ads -->
+    <string name="loading_ad">Loading ad…</string>
+    <string name="ad_failed_to_load">Ad failed to load</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_high_scores">High Scores</string>
+    <string name="nav_privacy_policy">Privacy Policy</string>
+    <string name="nav_consent_settings">Settings</string>
+    
+    <!-- Messages -->
+    <string name="firebase_auth_failed">Authentication failed</string>
+    <string name="score_saved">Score saved!</string>
+    <string name="score_sync_failed">Failed to sync score to cloud</string>
+    <string name="consent_form_error">Consent form error: %s</string>
+    <string name="test_device_id_log">UMP Test Device Hashed ID: %s</string>
+    
+    <!-- Ad Unit IDs (Test IDs by default) -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
