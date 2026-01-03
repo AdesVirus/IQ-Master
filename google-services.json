@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10282639328",
+    "project_id": "iqmaster-9a3a0700",
+    "storage_bucket": "iqmaster-9a3a0700.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10282639328:android:4bab806e9004fdc60b5585",
+        "android_client_info": {
+          "package_name": "com.example.iqmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAXSzuFsfCiOcreFEvunh0Q2cFoLovqGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
